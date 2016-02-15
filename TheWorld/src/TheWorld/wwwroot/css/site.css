@@ -15,3 +15,28 @@ input[type=password],
 textarea {
     width: 150px;
 }
+
+#main {
+    background-color: #eee;
+}
+
+#footer {
+    background-color: #000;
+    color: #eee;
+}
+
+.headshot {
+    max-width: 50px;
+}
+
+.menu {
+    font-family: 12px;
+}
+
+    .menu li {
+        list-style-type: none;
+    }
+
+        .menu li.active {
+            font-weight: bold;
+        }
