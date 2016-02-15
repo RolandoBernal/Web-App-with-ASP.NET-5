@@ -1,0 +1,17 @@
+﻿/* site.css */
+
+body {
+    font-family: 'Old English Text MT', sans-serif;
+    font-size: 14px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+}
+
+input[type=text],
+input[type=password],
+textarea {
+    width: 150px;
+}
