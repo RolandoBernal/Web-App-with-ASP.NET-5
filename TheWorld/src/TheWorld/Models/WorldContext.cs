@@ -9,6 +9,7 @@ namespace TheWorld.Models
 {
     class WorldContext : DbContext
     {
-        
+        public DbSet<Trip> Trips { get; set; }
+        public DbSet<Trip> Stops { get; set; }
     }
 }
