@@ -15,7 +15,8 @@
     "EntityFramework.MicrosoftSqlServer": "7.0.0-rc1-final",
     "UmbracoCms": "7.4.3",
     "EntityFramework": "6.1.3",
-    "bootstrap": "3.3.6"
+    "bootstrap": "3.3.6",
+    "jQuery": "2.2.3"
   },
 
   "commands": {
