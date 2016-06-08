@@ -12,7 +12,8 @@
     "Microsoft.AspNet.Mvc.TagHelpers": "6.0.0-rc1-final",
     "Microsoft.Extensions.Configuration": "1.0.0-rc1-final",
     "EntityFramework.Core": "7.0.0-rc1-final",
-    "EntityFramework.MicrosoftSqlServer": "7.0.0-rc1-final"
+    "EntityFramework.MicrosoftSqlServer": "7.0.0-rc1-final",
+    "UmbracoCms": "7.4.3"
   },
 
   "commands": {
